@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - silah
+  - can
+  - dusman
+  - boss
+  - dusman2
+  - dusman3
+  - can1
+  - selale
+  - bitis
+  - tas
+  - tas1
+  - ust
+  - sarmasikip
+  - kiriktahta
+  - asansor
+  - asansorust
+  - yer
+  - asnsrtrgr
+  - asnsrust
+  - bayrak
+  - platform
+  - dsmn3Pos
+  - buyuk_toprak
+  - zaman_mak
+  - kapan
+  - kalkan
+  - kaktus
+  - trap
+  - zaman_mak_misir
+  - anahtar
+  - kapi1
+  - kapi2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - a
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: as
+    uniqueID: 1685846143
+    locked: 0
+  - name: New Layer
+    uniqueID: 1584885387
+    locked: 0
