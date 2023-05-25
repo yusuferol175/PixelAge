@@ -9,18 +9,8 @@ public class hearts : MonoBehaviour
     public Sprite[] HeartSprites;
 
     public Image HeartUI;
-
-    
-
-    void Start()
-    {
-       
-    }
-
     void Update()
     {
-
         HeartUI.sprite = HeartSprites[player.curHealth];
-
     }
 }
