@@ -263,10 +263,4 @@ public class butonolaymenu : MonoBehaviour
             storyson.SetActive(false);
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
