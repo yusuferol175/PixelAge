@@ -10,13 +10,6 @@ public class stones : MonoBehaviour
 
     public Image StoneUI;
 
-
-
-    void Start()
-    {
-
-    }
-
     void Update()
     {
 
