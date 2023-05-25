@@ -57,10 +57,4 @@ public class selale : MonoBehaviour
 
         kiriktahta = GameObject.Find("kiriktahta");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
