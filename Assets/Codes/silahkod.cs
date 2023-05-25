@@ -75,22 +75,6 @@ public class silahkod : MonoBehaviour
     void Start()
     {
         Destroy(gameObject, 2f);
-
-
-
         bekko = GameObject.Find("berkay");
-
-       
-
-        
-       
-    }
-
-    
-    void Update()
-    {
-      
-
-
     }
 }
